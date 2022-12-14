@@ -11,13 +11,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <a href="https://www.python.org/about/" target="_blank"><img align="center" alt="Leo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank"></a>
 </div>
 
 ##
 
 <div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <a href="https://developer.microsoft.com/pt-br/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
 </div>
 
 ##
