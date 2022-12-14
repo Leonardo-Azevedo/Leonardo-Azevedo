@@ -1,16 +1,27 @@
-### Hi there 👋
+👦🏻 Olá, sou Leonardo de Azevedo
+- <p>🎓 Estudando análise e desenvolvimento de sistemas na <a href="https://www.unip.br/">Unip</a></p>
+- <p>🌱 Aprendendo mais sobre Python, Banco de Dados SQL e HTML</p>
+- <p>🤔 Procurando iniciar na área</p>
 
-<!--
-**Leonardo-Azevedo/Leonardo-Azevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Leonardo-Azevedo">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Azevedo&layout=compact&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+
+##
+
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/leonardo-azevedo-couto-da-silva-2405a7207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
